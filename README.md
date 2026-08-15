@@ -1,46 +1,81 @@
 <div align="center">
 
-  <!-- En-tête dynamique -->
+  <!-- En-tête -->
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=200&section=header&text=Bienvenue%20sur%20mon%20Profil%20!&fontSize=32&fontColor=fff&animation=fadeIn" width="100%" />
 
   <!-- Animation Typing -->
+
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=%C3%89tudiant+en+Informatique+%F0%9F%8D%93;D%C3%A9veloppeur+Web+%26+Mobile+%F0%9F%92%BB;Passionn%C3%A9+de+Code%2C+Sciences+%26+Musique+%F0%9F%8E%B9" alt="Typing SVG" />
-</a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=650&lines=%C3%89tudiant+en+Informatique+%F0%9F%8E%93;D%C3%A9veloppeur+Web+%26+Mobile+%F0%9F%92%BB;Passionn%C3%A9+par+l%27IA%2C+les+Sciences+%26+la+Musique+%F0%9F%8E%B9;Toujours+en+train+d%27apprendre+%26+de+construire+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 
 </div>
 
 ---
 
-### 🚀 À propos de moi
+## 🚀 À propos de moi
 
-- 🎓 **Étudiant en Informatique**, toujours enthousiaste à l'idée d'apprendre de nouvelles technologies.
-- 🎹 Passionné par l'algorithmique, l'IA, la conception, les sciences et la musique.
+* 🎓 **Étudiant en Informatique**, passionné par la programmation et les nouvelles technologies.
+* 💻 Je m'intéresse particulièrement au **développement logiciel, web et mobile**.
+* 🤖 Curieux de comprendre le fonctionnement de **l'Intelligence Artificielle, du Machine Learning et des systèmes informatiques**.
+* 🧠 J'aime apprendre en construisant des projets concrets et en expérimentant différentes technologies.
+* 🎹 Passionné également par les **sciences, l'algorithmique et la musique**.
+
+> *"The best way to learn is to build."* 🚀
 
 ---
 
-### 🛠️ Compétences & Technologies
+## 🛠️ Compétences & Technologies
 
 <div align="center">
 
-| Catégorie | Technologies & Outils |
-| :--- | :--- |
-| **Langages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
-| **Web & Scripting** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
-| **Données & SGBD** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
+### 💻 Langages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
+
+### 📱 Frameworks & Développement
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+### 🗄️ Bases de données
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### 🔧 Outils & Environnement
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+</p>
 
 </div>
 
 ---
 
-### 📊 Statistiques GitHub
+## 📊 Statistiques GitHub
 
 <div align="center">
 
-  <!-- Stats GitHub -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItokianaIZ07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  
-  <!-- Langages les plus utilisés -->
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItokianaIZ07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
@@ -49,23 +84,53 @@
 
 <div align="center">
 
-  <!-- Streak Stats (Série de commits) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItokianaIZ07&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItokianaIZ07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-### 📬 Me contacter
+## 🎯 Ce que j'apprends actuellement
 
 <div align="center">
+
+| Domaine                       | Objectif                                                           |
+| :---------------------------- | :----------------------------------------------------------------- |
+| 📱 **Flutter & Dart**         | Développement d'applications mobiles modernes                      |
+| 🤖 **IA & Machine Learning**  | Comprendre et construire des modèles intelligents                  |
+| 🔐 **Cybersécurité**          | Sécurité informatique et exploration du pentesting                 |
+| 🧠 **Algorithmique**          | Améliorer ma logique et mes compétences en résolution de problèmes |
+| 💻 **Développement logiciel** | Concevoir des applications propres, maintenables et évolutives     |
+
+</div>
+
+---
+
+## 📌 Projets
+
+Quelques projets sur lesquels je travaille ou que j'explore :
+
+* 💰 **Application de gestion de dépenses** — Flutter, Dart & SQLite
+* 🌐 **Projets Web** — JavaScript, TypeScript, PHP
+* 🤖 **Projets Python & IA** — exploration du Machine Learning et de la Computer Vision
+* 🔐 **Cybersécurité** — apprentissage et expérimentation autour de la sécurité informatique
+
+---
+
+## 📬 Me contacter
+
+<div align="center">
+
   <a href="mailto:itokianarabarivelo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
 </div>
 
----
+<br />
 
 <div align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=100&section=footer" width="100%" />
+
 </div>
