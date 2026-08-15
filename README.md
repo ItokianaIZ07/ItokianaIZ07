@@ -45,6 +45,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
@@ -97,6 +98,7 @@
 | Domaine                       | Objectif                                                           |
 | :---------------------------- | :----------------------------------------------------------------- |
 | 📱 **Flutter & Dart**         | Développement d'applications mobiles modernes                      |
+| ☕ **Java & Spring Boot**      | Développement backend et conception d'API                          |
 | 🤖 **IA & Machine Learning**  | Comprendre et construire des modèles intelligents                  |
 | 🔐 **Cybersécurité**          | Sécurité informatique et exploration du pentesting                 |
 | 🧠 **Algorithmique**          | Améliorer ma logique et mes compétences en résolution de problèmes |
@@ -111,6 +113,7 @@
 Quelques projets sur lesquels je travaille ou que j'explore :
 
 * 💰 **Application de gestion de dépenses** — Flutter, Dart & SQLite
+* ☕ **Applications backend** — Java, Spring Boot, PostgreSQL / MySQL
 * 🌐 **Projets Web** — JavaScript, TypeScript, PHP
 * 🤖 **Projets Python & IA** — exploration du Machine Learning et de la Computer Vision
 * 🔐 **Cybersécurité** — apprentissage et expérimentation autour de la sécurité informatique
