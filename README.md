@@ -88,52 +88,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=ItokianaIZ07&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItokianaIZ07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Top Languages"
-  />
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <img
-    src="https://streak-stats.demolab.com?user=ItokianaIZ07&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-
-</div>
----
-
-## 🎯 Actuellement en apprentissage
-
-<div align="center">
-
-| Domaine                       | Objectif                                                           |
-| :---------------------------- | :----------------------------------------------------------------- |
-| 📱 **Flutter & Dart**         | Développer des applications mobiles modernes et performantes       |
-| ☕ **Java & Spring Boot**      | Développer des backends robustes et concevoir des API              |
-| 📊 Analyse de données & Machine Learning | Explorer l'analyse de données et comprendre les bases de l'apprentissage automatique                  |
-| 🧠 **Algorithmique**          | Améliorer ma logique et mes compétences en résolution de problèmes |
-| 💻 **Développement logiciel** | Concevoir des applications propres, maintenables et évolutives     |
-
-</div>
-
----
-
 ## 🚀 Projets
 
 Quelques projets sur lesquels je travaille ou que j'explore :
@@ -142,25 +96,29 @@ Quelques projets sur lesquels je travaille ou que j'explore :
 
 **Flutter · Dart · SQLite**
 
-Application mobile permettant de gérer et suivre ses dépenses de manière simple et intuitive.
+Application mobile dédiée au suivi et à la gestion des dépenses personnelles, avec persistance locale des données et organisation des opérations financières.
 
-### ☕ Applications Backend
+### 🥜 Système de gestion d'une unité de transformation d'arachide en huile
 
-**Java · Spring Boot · PostgreSQL · MySQL**
+**Java · Spring Boot · PostgreSQL**
 
-Conception d'API et développement de services backend avec une architecture propre et évolutive.
+Conception et développement d'une plateforme backend destinée au pilotage des opérations d'une unité industrielle de transformation d'arachide en huile.
 
-### 🌐 Projets Web
+Le système vise notamment à assurer la **gestion des approvisionnements en arachides, le suivi des lots de production, la traçabilité des matières premières, le contrôle des étapes de transformation, la gestion des stocks et le suivi des produits finis**.
 
-**JavaScript · TypeScript · PHP**
+L'architecture repose sur une API REST développée avec **Spring Boot**, une modélisation relationnelle avec **PostgreSQL** et une séparation des responsabilités selon une architecture en couches (**Controller · Service · Repository**), avec gestion des entités métier et des règles de traitement.
 
-Expérimentation autour du développement web moderne et de différentes architectures applicatives.
+### 🌽 Système de détection des maladies des feuilles de maïs
 
-### 🤖 Projets Python & IA
+**Python · Machine Learning · Arbre de décision · Computer Vision**
 
-**Python · Machine Learning · Computer Vision**
+Développement d'un système d'aide à la détection des maladies affectant les feuilles de maïs à partir de caractéristiques visuelles extraites des images.
 
-Exploration des concepts d'intelligence artificielle et expérimentation avec différents modèles et algorithmes.
+Le projet s'appuie sur un **algorithme d'arbre de décision** pour effectuer la classification des feuilles selon leurs caractéristiques et identifier les catégories correspondant aux différents états pathologiques.
+
+L'objectif est d'explorer l'application du **Machine Learning à l'agriculture de précision**, depuis la préparation et l'analyse des données jusqu'à l'entraînement, l'évaluation et l'interprétation du modèle de classification.
+
+---
 
 ---
 
